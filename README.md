@@ -1,5 +1,9 @@
 # Grafana Dashboard for Browserstack Automate
 
+## Introduction 
+
+BrowserStack REST API give information about the build & test sessions .It also gives more detailed info on presently running session with it’s Platform, Device, Browser, versions information. The dashboard helps to get entire view of your build results covering aspects like buildtime, total sessions, pass/fail status, browser coverage, test session duration etc. The dashboard has been implemened without adding any extenal database sources  and it maps & process data directly from browserstack API response.
+
 ## Requirements
 - Docker
 
