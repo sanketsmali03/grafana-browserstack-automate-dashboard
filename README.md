@@ -13,4 +13,12 @@ docker-compose up -d
 
 ## Plguin Installation
 
+Use the grafana-cli tool to install JSON API & Infinity plugin from the commandline:
 
+ ```sh
+grafana-cli plugins install marcusolsson-json-datasource
+```
+
+ ```sh
+ grafana-cli plugins install yesoreyeram-infinity-datasource
+ ```
