@@ -22,6 +22,10 @@ grafana-cli plugins install marcusolsson-json-datasource
  ```sh
  grafana-cli plugins install yesoreyeram-infinity-datasource
  ```
+## Add Browserstack Usename & Accesskey to json 
+
+Identify your BrowserStack username and access key from the [BrowserStack Automate Dashboard](https://automate.browserstack.com/) and add them to the json file 
+
 
 ## Import Dashboard
 
