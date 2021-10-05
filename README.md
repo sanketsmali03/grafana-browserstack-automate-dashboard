@@ -32,5 +32,7 @@ To import a dashboard click the + icon in the side menu, and then click Import a
 
 ## View Dashboard
 
+You can view the browserstack dashboard under Dashboards 
+
 <img width="1439" alt="Screenshot 2021-10-05 at 11 45 33 AM" src="https://user-images.githubusercontent.com/79913684/135970325-ab41ee44-1818-4332-8e7a-a34c6a62698a.png">
 
